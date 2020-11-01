@@ -1,0 +1,9 @@
+#ifndef CONSTANT_H
+
+#define CONSTANT_H
+
+#define QUANTITY_DIGIT_IN_NUMBER 4
+#define INTERVAL_FROM_ONE_TO_NINE 9
+#define MAX_QUANTITY_ATTEMPT 3024
+
+#endif
