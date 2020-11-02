@@ -1,1 +1,1 @@
-# BullsAndCows
+[![Build Status](https://travis-ci.org/Perelygin-pixel/BullsAndCows.svg?branch=main)](https://travis-ci.org/Perelygin-pixel/BullsAndCows)
