@@ -6,7 +6,7 @@ FLAGS = -Wall -Werror -std=c99
 
 OBJECTS = build/src/main.o build/src/generate_number.o build/src/user_input.o build/src/check_user_guess.o
 
-TEST_OBJECTS = build/test/main.o build/test/tests.o build/src/user_input.o
+TEST_OBJECTS = build/test/main.o build/test/tests.o build/src/user_input.o build/src/check_user_guess.o
 
 .PHONY: clean all bin build run
 
